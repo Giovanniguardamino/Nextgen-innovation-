@@ -21,6 +21,9 @@ FOTO
 
 
 Edad:18 años
+
 Pasatiempo: jugar videojuegos 
+
 Curso favorito del segundo ciclo: Calculo diferencial
+
 Area biomedica: Ingenieria clinica
