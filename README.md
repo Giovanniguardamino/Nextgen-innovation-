@@ -42,7 +42,7 @@ Curso favorito del segundo ciclo: Física 1
 
 3-.Alonso Martin Cuadros Huarcaya
 
-![martin](Imagenes/Martin.png)
+![martin](Imagenes/Martin2.png)
 
 Edad: 18 años
 
