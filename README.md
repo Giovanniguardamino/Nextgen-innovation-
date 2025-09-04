@@ -49,3 +49,23 @@ Pasatiempo: Escuchar musica, tocar piano y practicar natacion
 Curso favorito del segundo ciclo: Diseño industrial 
 
 Area de interes biomedica: Biomecanica
+
+4-. Guillermo Eduardo Ancel Quezada Ponciano 
+
+Edad:
+
+Pasatiempo:
+
+Curso favorito del segundo ciclo:
+
+Area de interes biomedica:
+
+5-.Juan Pablo Bravo Larico
+
+Edad:
+
+Pasatiempo:
+
+Curso favorito del segundo ciclo:
+
+Area de interes biomedica:
