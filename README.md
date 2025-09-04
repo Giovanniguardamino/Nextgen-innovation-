@@ -17,8 +17,8 @@ Somos un grupo de estudiantes de segundo ciclo de la carrera de ingenieria Biome
 
 
 1-.Giovanni Guardamino
-FOTO
 
+![giovanni](Imagenes/Gionanni.png)
 
 Edad: 18 años
 
@@ -54,13 +54,15 @@ Area de interes biomedica: Biomecanica
 
 4-. Guillermo Eduardo Ancel Quezada Ponciano 
 
-Edad:
+![guillermo](Imagenes/Guillermo.png) 
 
-Pasatiempo:
+Edad: 17 años 
 
-Curso favorito del segundo ciclo:
+Pasatiempo: Comer, hacer deporte y dormir 
 
-Area de interes biomedica:
+Curso favorito del segundo ciclo: Calculo diferencial 
+
+Area de interes biomedica: Tejidos y biomateriales 
 
 5-.Juan Pablo Bravo Larico
 
