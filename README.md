@@ -26,7 +26,7 @@ Pasatiempo: Jugar videojuegos
 
 Curso favorito del segundo ciclo: Calculo diferencial
 
-Area biomedica: Ingenieria clinica
+Area de interes biomedica: Ingenieria clinica
 
 2-.Alonso Diego Vasquez Guillen
 
@@ -38,4 +38,14 @@ Pasatiempo: Jugar videojuegos, ajedrez y ver series y peliculas
 
 Curso favorito del segundo ciclo: Fisica 1
 
-Area biomedica: Tejidos y biomateriales
+Area de interes biomedica: Tejidos y biomateriales
+
+3-.Alonso Cuadros
+
+Edad: 18 años
+
+Pasatiempo: Escuchar musica, tocar piano y practicar natacion
+
+Curso favorito del segundo ciclo: Diseño industrial 
+
+Area de interes biomedica: Biomecanica
