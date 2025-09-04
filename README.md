@@ -10,13 +10,13 @@
 
 
 ## 🤖DESCRIPCION DEL GRUPO 🤖
-Somos un grupo de estudiantes de segundo ciclo de la carrera de ingenieria Biomedica (UPCH y PUCP) formamos parte del horario PIB5 del curso procesos de innovacion en bioingenieria y la finalidad de este repositorio es demostrar lo aprendido en la sesion numero 2 sobre git y github.
+Somos un grupo de estudiantes de segundo ciclo de la carrera de ingeniería Biomédica (UPCH y PUCP), formamos parte del horario PIB5 del curso procesos de innovación en bioingenieria y la finalidad de este repositorio es demostrar lo aprendido en la sesion número 2 sobre git y github.
 
 ### Integrantes del grupo:
 ![Foto Grupal](Imagenes/Grupo.png)
 
 
-1-.Giovanni Guardamino
+1-.Giovanni Jesús Guardamino Velasquez 
 
 ![giovanni](Imagenes/Giovanni.png)
 
@@ -24,9 +24,9 @@ Edad: 18 años
 
 Pasatiempo: Jugar videojuegos 
 
-Curso favorito del segundo ciclo: Calculo diferencial
+Curso favorito del segundo ciclo: Cálculo diferencial
 
-Area de interes biomedica: Ingenieria clinica
+Área de interes Biomédica: Ingeniería clinica
 
 2-.Alonso Diego Vasquez Guillen
 
@@ -34,11 +34,11 @@ Area de interes biomedica: Ingenieria clinica
 
 Edad: 18 años
 
-Pasatiempo: Jugar videojuegos, ajedrez y ver series y peliculas
+Pasatiempo: Jugar videojuegos, ajedrez, ver series y peliculas
 
-Curso favorito del segundo ciclo: Fisica 1
+Curso favorito del segundo ciclo: Física 1
 
-Area de interes biomedica: Tejidos y biomateriales
+Área de interes Biomédica: Tejidos y biomateriales
 
 3-.Alonso Martin Cuadros Huarcaya
 
@@ -46,11 +46,11 @@ Area de interes biomedica: Tejidos y biomateriales
 
 Edad: 18 años
 
-Pasatiempo: Escuchar musica, tocar piano y practicar natacion
+Pasatiempo: Escuchar música, tocar piano y practicar natación
 
 Curso favorito del segundo ciclo: Diseño industrial 
 
-Area de interes biomedica: Biomecanica
+Área de interes Biomédica: Biomecanica
 
 4-. Guillermo Eduardo Ancel Quezada Ponciano 
 
@@ -60,9 +60,9 @@ Edad: 17 años
 
 Pasatiempo: Comer, hacer deporte y dormir 
 
-Curso favorito del segundo ciclo: Calculo diferencial 
+Curso favorito del segundo ciclo: Cálculo diferencial 
 
-Area de interes biomedica: Tejidos y biomateriales 
+Área de interes Biomédica: Tejidos y biomateriales 
 
 5-.Juan Pablo Bravo Larico
 
@@ -74,4 +74,4 @@ Pasatiempo: Ver videos y jugar videojuegos
 
 Curso favorito del segundo ciclo: Quimica general 
 
-Area de interes biomedica: Tejidos y biomateriales
+Área de interes Biomédica: Tejidos y biomateriales
