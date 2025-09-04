@@ -18,7 +18,7 @@ Somos un grupo de estudiantes de segundo ciclo de la carrera de ingenieria Biome
 
 1-.Giovanni Guardamino
 
-![giovanni](Imagenes/Gionanni.png)
+![giovanni](Imagenes/Giovanni.png)
 
 Edad: 18 años
 
