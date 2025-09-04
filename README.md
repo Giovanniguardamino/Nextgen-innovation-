@@ -40,7 +40,9 @@ Curso favorito del segundo ciclo: Fisica 1
 
 Area de interes biomedica: Tejidos y biomateriales
 
-3-.Alonso Cuadros
+3-.Alonso Martin Cuadros Huarcaya
+
+![martin](Imagenes/Martin.png)
 
 Edad: 18 años
 
@@ -62,10 +64,12 @@ Area de interes biomedica:
 
 5-.Juan Pablo Bravo Larico
 
-Edad:
+![juan](Imagenes/Juan.png)
 
-Pasatiempo:
+Edad: 17 años
 
-Curso favorito del segundo ciclo:
+Pasatiempo: Ver videos y jugar videojuegos
 
-Area de interes biomedica:
+Curso favorito del segundo ciclo: Quimica general 
+
+Area de interes biomedica: Tejidos y biomateriales
