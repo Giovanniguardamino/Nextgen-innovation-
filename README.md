@@ -30,7 +30,7 @@ Area biomedica: Ingenieria clinica
 
 2-.Alonso Diego Vasquez Guillen
 
-![alonso](Imagenes/alonso.png)
+![alonso](Imagenes/Alonso.png)
 
 Edad: 18 años
 
