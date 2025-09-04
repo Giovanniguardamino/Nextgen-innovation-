@@ -20,10 +20,22 @@ Somos un grupo de estudiantes de segundo ciclo de la carrera de ingenieria Biome
 FOTO
 
 
-Edad:18 años
+Edad: 18 años
 
-Pasatiempo: jugar videojuegos 
+Pasatiempo: Jugar videojuegos 
 
 Curso favorito del segundo ciclo: Calculo diferencial
 
 Area biomedica: Ingenieria clinica
+
+2-.Alonso Diego Vasquez Guillen
+
+![alonso](Imagenes/alonso.png)
+
+Edad: 18 años
+
+Pasatiempo: Jugar videojuegos, ajedrez y ver series y peliculas
+
+Curso favorito del segundo ciclo: Fisica 1
+
+Area biomedica: Tejidos y biomateriales
